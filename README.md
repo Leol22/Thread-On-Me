@@ -171,4 +171,5 @@ finally <br>For the letter commands, it's implied that you can use the upper cas
         <li>There's nothing technically stopping conditionals from intersecting like [{]}, but i have 0 clue how stuff would operate. Try at your own risk. Under the hood, conditionals are just fancy jump commands, so make of that what you will.</li>
       </ol>
 <h2>Example Programs</h2>
-coming soon i'm tired
+      Hello World!
+<pre><code>!"72""101""108""111""44""32""119""114""100""33"</code><br><code>C"C"C""1C"2C"C"C"2"C"1"C"C"=</code></pre>
